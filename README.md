@@ -1,2 +1,2 @@
-Ini adalah aplikasi sistem informasi yang dibuat dengan framework laravel. Disini saya mengikuti tutorial di youtube sambil belajar cara menggunakan laravel.
+Ini adalah projek aplikasi sistem informasi untuk perentalan buku yang dibuat dengan framework laravel, dimana dapat digunakan untuk mengurus buku, user, dan hal-hal yang berkaitan dengan sistem perentalan buku. Disini saya mengikuti tutorial di youtube sambil belajar cara menggunakan framework laravel.
 ![image](https://user-images.githubusercontent.com/88927229/196758267-07e29f4f-68c4-49f5-ad2f-521db472ef12.png)
